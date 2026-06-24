@@ -1,5 +1,5 @@
 # KaplaBilling — SIP Class 4 Billing & Monitoring Platform
-# Copyright (c) 2025 Christopher Carrion — Sktcod Services
+# Copyright (c) 2026 Christopher Carrion — Sktcod Services
 # MIT License · https://t.me/sktcod · By Chisto · Sktcod Services
 
 import asyncio

@@ -1,8 +1,8 @@
 #!/bin/bash
 # KaplaBilling — SIP Class 4 Billing & Monitoring Platform
-# Copyright (c) 2025 Christopher Carrion — Sktcod Services
+# Copyright (c) 2026 Christopher Carrion — Sktcod Services
 # By Chisto · Sktcod Services · https://github.com/carrionmecapp
-# © 2025 – Todos los derechos reservados.
+# © 2026 – Todos los derechos reservados.
 
 # Instala dependencias del sistema preguntando antes si hay faltantes
 

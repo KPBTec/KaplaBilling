@@ -2,7 +2,7 @@
 # =============================================================================
 # KaplaBilling — SIP Class 4 Billing & Monitoring Platform
 #
-# Copyright (c) 2025 Christopher Carrion — Sktcod Services
+# Copyright (c) 2026 Christopher Carrion — Sktcod Services
 # MIT License — https://github.com/carrionmecapp/kaplabilling/blob/main/LICENSE
 # Contact & support: https://t.me/sktcod
 #

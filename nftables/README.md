@@ -95,4 +95,4 @@ Este proyecto está licenciado bajo los términos de la [Licencia MIT](../LICENS
 ## 👤 Autor
 
 Desarrollado por [@SktCod.ByChisto](https://github.com/carrionmecapp)  
-© 2025 – Todos los derechos reservados.
+© 2026 – Todos los derechos reservados.
