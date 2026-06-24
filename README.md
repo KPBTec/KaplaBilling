@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ KaplaBilling
+<img src="docs/logo.svg" alt="KaplaBilling" width="380"/>
 
 ### Plataforma SIP Class 4 — Billing, Monitoreo y Control de Tráfico
 
